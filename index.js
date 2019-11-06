@@ -1,1 +1,1 @@
-module.exports = require('lib/spark-heartbeat');
+module.exports = require('./lib/spark-heartbeat');
