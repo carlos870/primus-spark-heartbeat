@@ -1,6 +1,6 @@
 # primus-spark-heartbeat
 
-Primus-Spark-Heartbeat is a [Primus](https://github.com/primus/primus) plugin used to change how the heartbeat system works. The current version of Primus uses only one cycle on the server to broadcast all ping messages to the connected clients.
+primus-spark-heartbeat is a [Primus](https://github.com/primus/primus) plugin used to change how the heartbeat system works. The current version of Primus uses only one cycle on the server to broadcast all ping messages to the connected clients.
 
 In some scenarions, like having hundreds/thousands of connected clients and/or having event listeners attached to the spark _heartbeat_ event, you may prefer to not have all heartbeats starting exactly at the same time.
 

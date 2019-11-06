@@ -1,8 +1,27 @@
 {
     "name": "primus-spark-heartbeat",
     "version": "1.0.0",
-    "description": "",
+    "description": "primus-spark-heartbeat is a Primus plugin used to change how the heartbeat system works",
     "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/carlos870/primus-spark-heartbeat.git"
+    },
+    "keywords": [
+        "primus",
+        "heartbeat",
+        "ping",
+        "pong",
+        "socket",
+        "spark"
+    ],
     "author": "carlos870",
-    "license": "ISC"
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/carlos870/primus-spark-heartbeat/issues"
+    },
+    "homepage": "https://github.com/carlos870/primus-spark-heartbeat#readme"
 }
