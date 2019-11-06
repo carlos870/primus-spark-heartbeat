@@ -1,0 +1,8 @@
+{
+    "name": "primus-spark-heartbeat",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "carlos870",
+    "license": "ISC"
+}
