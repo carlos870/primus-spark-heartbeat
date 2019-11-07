@@ -1,6 +1,6 @@
 {
     "name": "primus-spark-heartbeat",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "primus-spark-heartbeat is a Primus plugin used to change how the heartbeat system works",
     "main": "index.js",
     "scripts": {
